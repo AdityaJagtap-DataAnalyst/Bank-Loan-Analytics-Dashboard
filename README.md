@@ -24,7 +24,7 @@ Built using **Tableau**, **SQL**, and **Excel**, this project transforms raw len
 ---
 
 ## 🔗 Live Dashboard Preview
-👉 **[Click here to view the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYTYxZjE2YjQtOGVhNC00YTVmLTk0OTItZDQ5YmM1ZTlhYmM5IiwidCI6IjdjNjZkNGIyLTVmY2QtNGRlYi1hMDQ4LTg1NGQ4ZWEyNDM3MSJ9)**
+👉 **[Click here to view the Power BI Report](Dashboard Images/Dashboard 1.png)**
 
 ---
 
