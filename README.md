@@ -24,7 +24,7 @@ Built using **Tableau**, **SQL**, and **Excel**, this project transforms raw len
 ---
 
 ## 🔗 Live Dashboard Preview
-👉 **[Click here to view the Power BI Report](Dashboard Images/Dashboard 1.png)**
+👉 **[Click here to view the Power BI Report](https://github.com/AdityaJagtap-DataAnalyst/Bank-Loan-Analytics-Dashboard/blob/75a6b53a9b2a971e7fc6762a6317753569459129/Dashboard%20Images/Dashboard%201.png)**
 
 ---
 
